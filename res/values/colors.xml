@@ -21,4 +21,12 @@
     <color name="material_deep_teal_500">@*android:color/material_deep_teal_500</color>
     <color name="icon_tint_color">@color/material_deep_teal_500</color>
 
+    <!-- Icon colors definition -->
+    <color name="buttons_icon_background">#5011C1</color>
+    <color name="gestures_icon_background">#FF7E0F</color>
+    <color name="lock_screen_icon_background">#0F9D58</color>
+    <color name="privacy_icon_background">#72B70F</color>
+    <color name="status_bar_icon_background">#2196F3</color>
+    <color name="system_icon_background">#F15B8D</color>
+
 </resources>

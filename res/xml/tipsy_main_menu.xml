@@ -25,42 +25,42 @@
        android:fragment="org.tipsy.martysplace.fragments.system.System"
        android:key="system_main_category"
        android:summary="@string/system_main_category_summary"
-       android:icon="@drawable/ic_system"
+       android:icon="@drawable/ic_system_background"
        android:title="@string/system_category" />
 
    <Preference
        android:fragment="org.tipsy.martysplace.fragments.status_bar.StatusBar"
        android:key="statusbar_main_category"
        android:summary="@string/statusbar_main_category_summary"
-       android:icon="@drawable/ic_status_bar"
+       android:icon="@drawable/ic_status_bar_background"
        android:title="@string/status_bar_category" />
 
    <Preference
        android:fragment="org.tipsy.martysplace.fragments.lock_screen.LockScreen"
        android:key="lockscreen_main_category"
        android:summary="@string/lockscreen_main_category_summary"
-       android:icon="@drawable/ic_lock_screen"
+       android:icon="@drawable/ic_lock_screen_background"
        android:title="@string/lock_screen_category" />
 
    <Preference
        android:fragment="org.tipsy.martysplace.fragments.buttons.Buttons"
        android:key="buttons_main_category"
        android:summary="@string/buttons_main_category_summary"
-       android:icon="@drawable/ic_buttons"
+       android:icon="@drawable/ic_buttons_background"
        android:title="@string/buttons_category" />
 
    <Preference
        android:fragment="org.tipsy.martysplace.fragments.gestures.Gestures"
        android:key="gestures_main_category"
        android:summary="@string/gestures_main_category_summary"
-       android:icon="@drawable/ic_gestures"
+       android:icon="@drawable/ic_gestures_background"
        android:title="@string/gestures_category" />
 
    <Preference
        android:fragment="org.tipsy.martysplace.fragments.privacy.Privacy"
        android:key="privacy_main_category"
        android:summary="@string/privacy_main_category_summary"
-       android:icon="@drawable/ic_privacy"
+       android:icon="@drawable/ic_privacy_background"
        android:title="@string/privacy_category" />
 
 </PreferenceScreen>
